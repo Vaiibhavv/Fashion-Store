@@ -1,4 +1,4 @@
-![Screenshot (703)](https://user-images.githubusercontent.com/107416335/221363538-7c20dec4-b610-467a-9a08-5eb1444ee640.png)
+![Screenshot (703)](https://user-images.githubusercontent.com/107416335/221363552-f87d9a42-13bf-4f98-89e4-c74969521f4f.png)
 # Fashion-Store
 It is a fashion store website, it helps to find out the good quality and branded clothes for men and women.
 website-  ## https://icy-ocean-056fc0910.2.azurestaticapps.net
