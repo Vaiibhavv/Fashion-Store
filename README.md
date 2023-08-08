@@ -8,4 +8,3 @@ It is a fashion store website, it helps to find out the good quality and branded
 ![Screenshot (701)](https://user-images.githubusercontent.com/107416335/221363361-fb1632c0-6806-43d6-aef2-9b4e8986d8f1.png)
 ![Screenshot (702)](https://user-images.githubusercontent.com/107416335/221363376-27590e08-4b36-4851-aabf-5021140b69c2.png)
 ![Screenshot (704)](https://user-images.githubusercontent.com/107416335/222949858-b862e13f-5a08-428b-9533-8b97b4e7627d.png)
-
