@@ -1,5 +1,6 @@
 ![Screenshot (703)](https://user-images.githubusercontent.com/107416335/221363552-f87d9a42-13bf-4f98-89e4-c74969521f4f.png)
 # Fashion-Store
+ Here is the updated link of website --   https://fashionbaazar.netlify.app/   
 It is a fashion store website, it helps to find out the good quality and branded clothes for men and women.
 ##![Screenshot (697)](https://user-images.githubusercontent.com/107416335/221363311-f9b8cd41-62a3-4631-ab6d-773e28d974c3.png)
 ![Screenshot (698)](https://user-images.githubusercontent.com/107416335/221363336-849edb46-ba00-4f5a-a341-ba1f0ebe5d03.png)
